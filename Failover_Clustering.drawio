@@ -115,6 +115,12 @@
         <mxCell id="V0j2MtM9Rkw-EjxXUnFc-37" value="&lt;b&gt;ISCSI Target Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="17" y="360" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V0j2MtM9Rkw-EjxXUnFc-38" value="&lt;b&gt;Cluster Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="375" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V0j2MtM9Rkw-EjxXUnFc-39" value="&lt;b&gt;Storage Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
