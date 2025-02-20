@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.2">
-  <diagram name="Trang-1" id="uG5SqhHQs4MUJyDB81hm">
-    <mxGraphModel dx="864" dy="-32" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="504" math="0" shadow="0">
+  <diagram name="Trang-1" id="9FVHc2kr6rYCfZKtV_EO">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7y4B_Ck4f7xOZdhbWvql-69" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="514.6970994632934" width="2342.0594686912655" height="1308.5058010734133" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
