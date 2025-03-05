@@ -67,9 +67,6 @@
         <mxCell id="EqHfSnTNNQ-ZCxXaGWHK-34" value="&lt;font size=&quot;1&quot; color=&quot;#007fff&quot;&gt;SOC Analysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="468.53" y="605" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EqHfSnTNNQ-ZCxXaGWHK-35" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot; size=&quot;1&quot;&gt;TheHive&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="548.53" y="492.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EqHfSnTNNQ-ZCxXaGWHK-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
           <mxGeometry x="341.52" y="479" width="40.46" height="40.46" as="geometry" />
         </mxCell>
