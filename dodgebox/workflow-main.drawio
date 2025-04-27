@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Trang-1" id="1phcRliG0_OG86kmas2S">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="320" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="380" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="380" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry y="380" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-12" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;EXE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-13" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;DLL&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bcolor%3A%20rgb(255%2C%20255%2C%20255)%3B%20font-size%3A%2014px%3B%26quot%3B%26gt%3B%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3BEXE%26lt%3B%2Fb%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23007FFF%3BfillColor%3D%23007FFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-125%22%20y%3D%22420%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-14" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DAT&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="115" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CCCCCC;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="430" as="sourcePoint" />
+            <mxPoint x="-130" y="429.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-18" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CCCCCC;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="429.64" as="sourcePoint" />
+            <mxPoint x="-5" y="429.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-20" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CCCCCC;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="429.64" as="sourcePoint" />
+            <mxPoint x="115" y="429.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-22" value="&lt;b&gt;Download&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-23" value="&lt;div&gt;&lt;b&gt;Legtimate&lt;/b&gt;&lt;/div&gt;&lt;b&gt;executable&lt;/b&gt;&lt;div&gt;&lt;b&gt;(taskhost.exe)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-24" value="&lt;b&gt;DodgeBox loader&lt;/b&gt;&lt;div&gt;&lt;b&gt;(sbiedll.dll)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-25" value="&lt;b&gt;Endcrypted&lt;/b&gt;&lt;div&gt;&lt;b&gt;payload&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-26" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Decrypts &amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;loads&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Executes&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGI2j-OcqfzO40r2UE8J-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Sideloads&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
