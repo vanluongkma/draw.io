@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Trang-1" id="-9hSgqs4MJvdnf7jeZeY">
-    <mxGraphModel>
+    <mxGraphModel dx="194" dy="107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sH26EEb1_xlQHSy-GC_T-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wazuh.com/uploads/2022/05/WAZUH.png;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="sH26EEb1_xlQHSy-GC_T-3" value="&lt;b&gt;App&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="16" height="6" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
